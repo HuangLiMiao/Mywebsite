@@ -20,11 +20,11 @@ description: "使用Jekyll搭建的网站"
 baseurl: "/jekyll-theme-basically-basic"
 url: "https://limiaohunag.gitee.io" 
 author:
-  name:
+  name: "黄丽妙"
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: "HuangLiMiao"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
