@@ -17,7 +17,7 @@ lang: "zh-CN"
 title: 黄丽妙个人网站
 email:
 description: "使用Jekyll搭建的网站"
-baseurl: "My website"
+baseurl: "Mywebsite"
 url: "https://limiaohunag.gitee.io" 
 author:
   name: "黄丽妙"
