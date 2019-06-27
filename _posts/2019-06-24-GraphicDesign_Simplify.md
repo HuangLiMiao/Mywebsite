@@ -1,5 +1,6 @@
 ---
 layout: page
+excerpt_separator: "<!--more-->"
 title: 如何让你的平面不再雷人？
 categories:
      - 平面设计
