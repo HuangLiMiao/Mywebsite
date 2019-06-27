@@ -7,7 +7,7 @@ categories:
 ---
 ### 如何更改theme
 - 如何更改一个jeklly的theme呢？其实不一定要去下载模板，在这里就有一个小方法和大家分享一下。就以我们这次的期末项目为例。打开_sass/basically-basic/themes文件夹就可以发现有好几个以“.scss”结尾的文件。这些就是这个项目里自带的一些主题模板。
-
+<!--more-->
 ![输入图片说明](https://gitee.com/limiaohuang/Mywebsite/raw/gh-pages/assets/images/%E6%95%99%E7%A8%8B2.PNG)
 
 接下来再打开_data/theme.yml。修改skin后的主题名称就大功造成啦。
