@@ -9,11 +9,11 @@ categories:
 ### 学会做减法
 - 在进行平面设计时，我们应该去考虑一个作品的总体，思考删掉一个元素是否会为你的设计加分呢？如果是那就应该大胆的去除一些多余的成分。比如以下这张图片。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0626/103512_031847b4_2229822.jpeg "糟糕的平面.jpg")
+![输入图片说明](https://gitee.com/limiaohuang/Mywebsite/raw/gh-pages/assets/images/%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B3%E9%9D%A2.jpg)
 
 - 不仅不具有美感，还让人看着很难受。不仅文案很多，而且颜色还十分突兀。这就警醒我们不能在一份平面中运用太多的颜色来凸显文案。这样反而会画蛇添足。所以说一份好的平面并不是你可以增加很多元素，而是你留下的每种元素都没有必要去删减。就比如以下这个例子。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0626/103250_3f0db0a1_2229822.jpeg "好的平面.jpg")
+![输入图片说明](https://gitee.com/limiaohuang/Mywebsite/raw/gh-pages/assets/images/%E5%A5%BD%E7%9A%84%E5%B9%B3%E9%9D%A2.jpg)
 
 - 不仅没有可删减的元素，而且整体配色和文案都搭配得十分和谐。简单的一两句文案就十分简洁的突出了产品的特色。整体的配色也给人一种高级感。既然说到颜色搭配得问题，那我觉得在这里也有必要分享一下这方面的技巧。
 ### 了解颜色的含义
@@ -25,6 +25,6 @@ categories:
 - 黑色，虽然和死亡、悲剧有关，但是也能营造沉稳大气的高级感。  
 - 白色，代表纯洁无暇，传达出高雅，纯粹和清晰的感觉
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0626/103305_8d9b3209_2229822.jpeg "颜色.jpg")
+![输入图片说明](https://gitee.com/limiaohuang/Mywebsite/raw/gh-pages/assets/images/%E9%A2%9C%E8%89%B2.jpg)
 
 - 知道各种颜色的含义后，我们才能运用好颜色，让自己的平面设计高级起来。高端的设计不在于复杂的元素，而是我们能运用最简单的搭配让其呈现出最好的效果。
