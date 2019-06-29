@@ -3,9 +3,9 @@ layout: page
 excerpt_separator: "<!--more-->"
 title: svg也可以成为进度条
 categories:
-     - svg制作
-     tags:
-   - svg
+  - svg制作
+tags:
+  - svg
 ---
 #### 进度条例子
 <head>
