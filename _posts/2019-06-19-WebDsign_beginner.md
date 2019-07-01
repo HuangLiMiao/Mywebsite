@@ -21,7 +21,13 @@ categories:
 #### 如何引入media？
 - 常用的引入方法主要要两种
 #### link方法引入
-> <link rel="stylesheet" type="text/css" href="styleB.css"  media="screen and (min-width: 600px) and (max-width: 800px)">
+
+```markdown
+<link rel="stylesheet" type="text/css" href="styleB.css"  media="screen and (min-width: 600px) and (max-width: 800px)">
+```
 
 #### @media引入
-> @media screen and (min-width: 600px) and (max-width: 800px){      选择器{          属性：属性值；      }  }
+
+```markdown
+@media screen and (min-width: 600px) and (max-width: 800px){      选择器{          属性：属性值；      }  }
+```
