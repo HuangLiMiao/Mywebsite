@@ -29,7 +29,7 @@ tags:
     position: absolute;
     width: 200px;
     height: 200px;
-    top: 85%;
+    top: 55%;
     left: 20%;
     transform: translate(-50%, -50%);
 }
@@ -45,14 +45,6 @@ tags:
     }
 }
 </style>
-
-
-
-
-
-
-
-
 
 
 ### 相关代码
