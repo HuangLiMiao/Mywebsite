@@ -9,8 +9,9 @@ tags:
 ---
 #### 进度条例子
 
-<div class="circle-load" tyle="position:absolute;left:100px;top:100px">
-    <svg width="400" height="400" viewbox="0 0 440 840" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<body>
+<div class="circle-load">
+    <svg width="500px" height="240px" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="gainsboro" fill="none"></circle>
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="darkturquoise" fill="none" class="circle-load-svg"></circle>
     </svg>
@@ -20,8 +21,8 @@ tags:
     position: absolute;
     width: 200px;
     height: 200px;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 60%;
     transform: translate(-50%, -50%);
 }
 
@@ -32,15 +33,18 @@ tags:
 
 @keyframes rot {
     100% {
-        stroke-dasharray: 570 570;
+        stroke-dasharray: 400 400;
     }
 }
 </style>
+	</body>
+
 <!--more-->
 ### 相关代码
 ```markdown
-<div class="circle-load" tyle="position:absolute;left:100px;top:100px">
-    <svg width="400" height="400" viewbox="0 0 440 840" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<body>
+<div class="circle-load">
+    <svg width="500px" height="240px" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="gainsboro" fill="none"></circle>
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="darkturquoise" fill="none" class="circle-load-svg"></circle>
     </svg>
@@ -50,8 +54,8 @@ tags:
     position: absolute;
     width: 200px;
     height: 200px;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 60%;
     transform: translate(-50%, -50%);
 }
 
@@ -62,8 +66,10 @@ tags:
 
 @keyframes rot {
     100% {
-        stroke-dasharray: 570 570;
+        stroke-dasharray: 400 400;
     }
 }
 </style>
+	</body>
+
 ```
