@@ -29,7 +29,7 @@ tags:
     position: absolute;
     width: 200px;
     height: 200px;
-    top: 55%;
+    top: 54%;
     left: 20%;
     transform: translate(-50%, -50%);
 }
