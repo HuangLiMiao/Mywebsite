@@ -10,7 +10,7 @@ tags:
 #### 进度条例子
 
 <hgroup class="circle-load">
-    <svg width="240px" height="240px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <svg width="540" height="540" viewbox="0 0 440 440" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="gainsboro" fill="none"></circle>
         <circle cx="110" cy="110" r="90" stroke-width="10" stroke="darkturquoise" fill="none" class="circle-load-svg"></circle>
     </svg>
